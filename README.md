@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @karolur
 - 👀 I’m interested in data engineering, the alignment problem and data privacy
-- 🌱 I’m currently learning data architecture
+- 🌱 I’m currently working in MLOps, Cloud Administration and LLM Evaluations
 - 📫 How to reach me: karol.urojas@hotmail.com or karol.urojas@pm.me
 
 <!---
